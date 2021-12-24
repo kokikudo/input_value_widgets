@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">input_value_widgets</string>
+    <string name="check_box">Check Box</string>
+    <string name="toggle_button_on">Toggle Button On</string>
+    <string name="toggle_button_off">Toggle Button Off</string>
+    <string name="radio_button">RadioButton</string>
+    <string name="radio_button_win">Windows</string>
+    <string name="radio_button_lin">Linux</string>
+    <string name="radio_button_mac">macOS</string>
+    <string name="seek_bar">SeekBar</string>
+    <string name="seek_bar_zero">0</string>
+    <string name="seek_bar_text">%s</string>
+    <string name="spnFruits_prompt">Choice Fruits</string>
+    <string-array name="spnFruits_items">
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Grape</item>
+    </string-array>
+    <string name="switch_widget">Switch</string>
+    <string name="switch_on">ON</string>
+    <string name="switch_off">OFF</string>
+</resources>
